@@ -1,7 +1,7 @@
 ---
 title: "자기소개서"
 date: 2026-03-09 00:00:00 +0900
-categories: [Main, Profile]
+categories: [Main, 프로필]
 tags: [jekyll, github-pages]
 ---
 <!-- 제목 -->
